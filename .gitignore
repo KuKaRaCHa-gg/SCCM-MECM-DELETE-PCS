@@ -1,0 +1,4 @@
+# Ignore PowerShell backup and log files
+*.bak
+*.log
+*.tmp
