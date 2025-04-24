@@ -68,28 +68,3 @@ try {
 }
 ```
 
----
-
-### 🛑 `.gitignore`
-```gitignore
-# Ignore PowerShell backup and log files
-*.bak
-*.log
-*.tmp
-```
-
----
-
-### 🚀 Git Setup Instructions
-
-If you're initializing the repo manually:
-
-```bash
-echo "# SCCM-MECM-DELETE-PCS" >> README.md
-git init
-git add .
-git commit -m "Initial commit: SCCM delete script"
-git branch -M main
-git remote add origin https://github.com/KuKaRaCHa-gg/SCCM-MECM-DELETE-PCS.git
-git push -u origin main
-```
